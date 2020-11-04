@@ -1,0 +1,13 @@
+{
+  "semi": false,
+  "singleQuote": true
+}
+" prettier / prettier " : [ " error " , { " singleQuote " : true , " parser " : " flow " }]
+"prettier/prettier": ["error", {}, {
+  "usePrettierrc": false
+}]
+"prettier/prettier": ["error", {}, {
+  "fileInfoOptions": {
+    "withNodeModules": true
+  }
+}]

@@ -1,0 +1,11 @@
+admin_id=[{user : admin3pe@3pe.com , pass : 1319AD }]
+
+user_id=[{ user : a101@3pe.com , pass : 2110pe },
+   		{ user : a102@3pe.com , pass : 2212pe },
+    	{ user : a103@3pe.com , pass : 2314pe },
+    	{ user : a201@3pe.com , pass : 2416pe },
+   		{ user : a202@3pe.com , pass : 2518pe },
+    	{ user : a203@3pe.com , pass : 2610pe },
+    	{ user : a301@3pe.com , pass : 2712pe },
+    	{ user : a302@3pe.com , pass : 2814pe },
+    	{ user : a303@3pe.com , pass : 2916pe },]
